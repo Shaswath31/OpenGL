@@ -1,4 +1,5 @@
 # OpenGL
+A framework to do 2D texture translation within the editor using OpenGL.
 
 ## Installation
 
@@ -16,6 +17,7 @@ https://github.com/Shaswath31/OpenGL/assets/71760920/8a319701-d888-4ab3-8cd9-873
 * [GLEW](https://glew.sourceforge.net/)
 * [imgui](https://github.com/ocornut/imgui)
 * [stb_image](https://github.com/nothings/stb/blob/master/stb_image.h)
+* [GLM](https://github.com/g-truc/glm)
 
 
 
